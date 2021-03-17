@@ -37,7 +37,7 @@ so in the above example, the name art_endor1_1.dds will mean the app will displa
 
 10- In the output folder you will then see a folder for the "tre" folder you made in step 6 and folders of files.
 a) move the appearance, object, shader and texture folders into your main TRE directory tree.
-b) open the CRC editor and add the appearance files (not mesh), objects, shaders and textures.
+b) open the CRC editor and add the object files.
 c) open the string editor, the templates in this app expect the two string files: strings/en/art_d and art_n. 
 d) using the strings file in the output directory, create the name and description for each string
 e) copy all the lua files from xxxLua to the scripts/objects/tangible/paintings folder
