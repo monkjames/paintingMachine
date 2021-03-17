@@ -1,0 +1,52 @@
+﻿infiniteLLcMontiConvoTemplate
+infiniteLLCMontiConvoHandler
+init	I am an overnight success, but it took 20 years.
+init	What?	q1
+init	What do you do here?	q2
+init	We talked before, can we skip the chit-chat?	how1
+
+q1	Google it, it's my most famous quote. 
+q1	Uh, ok, what is it you do here?	q2
+
+q2	I am the director of special projects for Infinity Heritage LLC. I was hired because some of the thievery has gotten too creative for Month Python to keep up with.
+q2	What kind of Creative Thievery?	q3
+q2	Do you have work for me?	q4
+
+q3	I normally don't give criminals credit but wow, some of their antics made me laugh. Basically, they are now taking everything. Even if it is nailed down or requires a large transport ship to grab it. I mean it could be embedded in cement, guarded by 10 Jedi Masters with a Rancor sitting on it, and they still manage to steal it.
+q3	Wow, what can I do to help you?	q4
+
+q4	I reward loyalty with risk. Like Monty Python, I will turn a blind eye to anything you happen to find along the way.
+q4	Ok, so you will give me missions?	q5
+
+q5	Let's Make a Deal, it's that simple. You give up 10 things you looted from Monty Python's quests. Then you get to choose one of three missions. Each with a different outcome.
+q5	How are they different?	q6
+q5	How do I pick?	q11
+q5	Ok, I'm ready	how1
+
+q6	That's what makes it fun. One mission will offer some amazing loot, the other will be mediocre but still likely better than what you gave me. The third is garbage.
+q6	Why can't all the missions give amazing loot?	q7
+q6	What do you consider amazing?	q8
+q6	Ok, I'm ready	how1
+
+q7	First, life doesn't work that way. Second, I'm a sick individual that likes to play games.
+q7	What sorts of Amazing loot?	q8
+
+q8	Well there's no certainty but last week this one guy looted a fully intact sandcrawler and another looted one of the arches from Theed.
+q8	Theed Arch?	q9
+q8	Sandcrawler	q10
+
+q9	Here's a secret, the two giant arches in Theed? They're both fake, the real ones were stolen.
+q9	What about the sandcrawler?	q10
+q9	I'm ready to make a deal	how1
+
+q10	It was massive, granted the jawas removed the engine but it made a nice decoration in the front yard.
+q10	What about the Theed arch?	q9
+q10	I'm sold, I would like to make a deal	how1
+
+q11	That's the fun part, over by the exit there will be three harmless green flames, just walk into one and you will be teleported off to a secret location.
+q11	How are they different?	q6
+q11	How do I return?	q12
+
+q12	Good luck with that.
+q12	Ok, Let's Make a Deal!	how1
+
